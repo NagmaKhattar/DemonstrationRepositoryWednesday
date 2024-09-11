@@ -10,4 +10,5 @@ package newprojectwednesday;
  */
 public class NewClass {
     
+    //comments written
 }
